@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 int getMaxProfit(vector<int> &prices)
 {
     int minPrice = 104;
